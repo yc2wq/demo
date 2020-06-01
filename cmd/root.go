@@ -72,6 +72,9 @@ func init() {
 	// Cobra also supports local flags, which will only run
 	// when this action is called directly.
 	rootCmd.Flags().BoolP("toggle", "t", false, "Help message for toggle")
+
+	RootCmd.Flags().StringVarP(&name, "name", "n", "", "person's name")
+	RootCmd.Flags().IntVarP(&age, "age", "a", 0, "person's age")
 }
 
 // initConfig reads in config file and ENV variables if set.
