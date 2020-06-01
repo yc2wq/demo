@@ -73,8 +73,8 @@ func init() {
 	// when this action is called directly.
 	rootCmd.Flags().BoolP("toggle", "t", false, "Help message for toggle")
 
-	RootCmd.Flags().StringVarP(&name, "name", "n", "", "person's name")
-	RootCmd.Flags().IntVarP(&age, "age", "a", 0, "person's age")
+	rootCmd.Flags().StringVarP(&name, "name", "n", "", "person's name")
+	rootCmd.Flags().IntVarP(&age, "age", "a", 0, "person's age")
 }
 
 // initConfig reads in config file and ENV variables if set.
