@@ -15,8 +15,13 @@ limitations under the License.
 */
 package main
 
-import "github.com/xujielong/demo/cmd"
+import (
+	"github.com/xujielong/demo/cmd"
+	"github.com/xujielong/demo/hello"
+	"fmt"
+)
 
 func main() {
 	cmd.Execute()
+	fmt.Println(hello.Greet())
 }
