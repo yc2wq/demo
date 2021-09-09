@@ -1,7 +1,7 @@
 PROJECT_NAME := "github.com/xujielong/demo"
 PKG := "$(PROJECT_NAME)"
-PKG_LIST := $(shell go list ${PKG}/... | grep -v /vendor/)
-GO_FILES := $(shell find . -name '*.go' | grep -v /vendor/ | grep -v _test.go)
+PKG_LIST := $(shell go list ${PKG}/... | grep -v /cmd | grep -v /imp)
+GO_FILES := $(shell find . -name '*.go' | grep -v _test.go)
 
 .PHONY: all dep lint vet test test-coverage build clean
 
