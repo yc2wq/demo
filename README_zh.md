@@ -65,5 +65,5 @@ TKeel 0.1.0 将于 2021 年 9 月 30 日正式上线，点击 [Release Notes For
 
 ## 谁在使用 TKeel
 
-[Powered by TKeel](https://github.com/xujielong/demo/docs/case.md) 列出了哪些企业在使用 tkeel，如果您所在的企业已安装使用了 tkeel，欢迎[提交 PR](https://github.com/xujielong/demo/docs/powered-by-tkeel.md)。
+[Powered by TKeel](docs/case.md) 列出了哪些企业在使用 tkeel，如果您所在的企业已安装使用了 tkeel，欢迎[提交 PR](https://github.com/xujielong/demo/blob/master/docs/powered-by-tkeel.md)。
 
