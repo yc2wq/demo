@@ -59,7 +59,7 @@ TKeel 0.1.0 将于 2021 年 9 月 30 日正式上线，点击 [Release Notes For
 
 ## 技术社区
 
-[TKeel 社区](https://github.com/xujielong/community) 包含所有社区的信息，包括如何开发，兴趣小组(SIG)等。比如[开发指南](https://github.com/xujielong/community/developer-guide/development.md) 详细说明了如何从源码编译、TKeel 的 GitHub 工作流、如何贡献代码以及如何测试等。
+[TKeel 社区](docs/community/README.md) 包含所有社区的信息，包括如何开发，兴趣小组(SIG)等。比如[开发指南](docs/community/contribution/design-proposal-template.md) 详细说明了如何从源码编译、TKeel 的 GitHub 工作流、如何贡献代码以及如何测试等。
 
 - [Bug 与建议反馈（GitHub Issue）](https://github.com/xujielong/demo/issues)
 
