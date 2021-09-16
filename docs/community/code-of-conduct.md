@@ -1,4 +1,4 @@
-# TKeel Code of Conduct
+# tKeel Code of Conduct
 
 This document makes a reference to the rules of behavior for all contributors and maintainers in the community. All members agree to follow them to foster the growth of the community of tolerance, respect, and mutual understanding.
 

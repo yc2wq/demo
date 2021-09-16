@@ -1,6 +1,6 @@
 # Development Workflow
 
-The following graph shows the workflow how to develop TKeel backend.
+The following graph shows the workflow how to develop tKeel backend.
 
 ## Step 1. Fork
 
@@ -9,7 +9,7 @@ The following graph shows the workflow how to develop TKeel backend.
 
 ## Step 2. Clone fork to local storage
 
-Per Go's [workspace instructions](https://golang.org/doc/code.html#Workspaces), place TKeel code on your `GOPATH` using the following cloning procedure.
+Per Go's [workspace instructions](https://golang.org/doc/code.html#Workspaces), place tKeel code on your `GOPATH` using the following cloning procedure.
 
 Define a local working directory:
 

@@ -1,12 +1,12 @@
-# TKeel Special Interest Groups
+# tKeel Special Interest Groups
 
 Most community activities are organized into a variety of Special Interest Group (SIG).
 
 ## Why Special Interest Groups
 
-TKeel SIGs are organizations responsible for the design and implementation of some relatively large architectural aspects of the overall TKeel project. SIGs operate with a fair amount of autonomy within the broader scope of the project.
+tKeel SIGs are organizations responsible for the design and implementation of some relatively large architectural aspects of the overall tKeel project. SIGs operate with a fair amount of autonomy within the broader scope of the project.
 
-Generally, SIGs focus on specific technologies and features. For example, the storage SIG primarily focuses on design, integration and development for the Kubernetes-based storage within TKeel.
+Generally, SIGs focus on specific technologies and features. For example, the storage SIG primarily focuses on design, integration and development for the Kubernetes-based storage within tKeel.
 
 ## Run a SIG
 
